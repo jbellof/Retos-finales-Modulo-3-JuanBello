@@ -16,7 +16,7 @@ Este es un proyecto simple de una aplicación de lista de tareas desarrollada en
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/todo-app.git`
+1. Clona el repositorio: `git clone [https://github.com/tu-usuario/todo-app.git](https://github.com/jbellof/Retos-finales-Modulo-4-JuanBello)`
 2. Abre el archivo `index.html` en tu navegador.
 
 ## Uso
