@@ -1,5 +1,5 @@
 # Retos-finales-Modulo-4-JuanBello
-
+En este repositorio se encuentra el proyecto final de los postworks de juan bello del módulo 4 de javaScript
 # Todo App
 
 Este es un proyecto simple de una aplicación de lista de tareas desarrollada en JavaScript.
